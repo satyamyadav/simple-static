@@ -1,0 +1,31 @@
+{
+  "short_name": "complex frontend",
+  "name": "complex-frontend ",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "public/img/logo.png",
+      "sizes": "196x196",
+      "type": "image/png"
+    },
+    {
+      "src": "public/img/logo.png",
+      "sizes": "296x296",
+      "type": "image/png"
+    },
+    {
+      "src": "public/img/logo.png",
+      "sizes": "496x496",
+      "type": "image/png"
+    },
+    {
+      "src": "public/img/logo.png",
+      "sizes": "696x696",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#31475A",
+  "theme_color": "#31475A", 
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
