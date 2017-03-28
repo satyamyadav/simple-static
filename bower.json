@@ -1,0 +1,23 @@
+{
+  "name": "simple-static",
+  "version": "0.0.0",
+  "homepage": "satyam",
+  "authors": [
+    "Satyam Yadav <satyamyadav3@gmail.com>"
+  ],
+  "description": " website",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
