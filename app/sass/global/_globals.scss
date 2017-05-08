@@ -1,5 +1,8 @@
-
-@import "_colors";
+// color references
+// https://material.io/guidelines/style/color.html#color-color-palette
+@import "colors/_sass-material-colors";
+@import 'colors/_sass-material-colors-classes';
 @import "_helpers";
 @import "_animate";
 @import "_preloader";
+@import "_typography";
