@@ -1,8 +1,12 @@
 /**
- * import stuff 
+ * import stuff from assets,
  */
 
-@import "./_variables";
-@import "./_bootstrap";
+
+
+// @import "_variables";
+@import "bootstrap";
+
+
 @import "global/_globals";
 @import "site/_site";
